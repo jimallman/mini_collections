@@ -1,5 +1,5 @@
-# collections
-Useful collections of trees. Each describes its purpose, ranked trees, and rationale for including each.
+# mini_collections
+A tiny test repository of tree collections, for use by [peyotl](https://github.com/OpenTreeOfLife/peyotl)'s unit tests.
 
 ## License
 
