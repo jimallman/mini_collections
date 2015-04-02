@@ -46,8 +46,8 @@
             "studyID": "ot_2222", 
             "treeID": "tree7778",
             "SHA": "99999",
-            "decision": "UNDECIDED",
-            "comments": "Added by automatic query 'Harvest recent Apis mellifera'"
+            "decision": "EXCLUDED",
+            "comments": "Added by automatic query 'Harvest recent Apis mellifera'. UPDATE: This was a false positive, not relevant."
         }
     ],
     "queries": [
