@@ -5,7 +5,8 @@
     "creator": {"login": "jimallman", "name": "Jim Allman"},
     "contributors": [
         {"login": "pmidford2", "name": "Peter Midford"},
-        {"login": "kcranston", "name": "Karen Cranston"}
+        {"login": "kcranston", "name": "Karen Cranston"},
+        {"login": "mtholder", "name": "Mark Holder"},
     ],
     "decisions": [
         {
@@ -37,8 +38,8 @@
             "studyID": "ot_2222", 
             "treeID": "tree7777",
             "SHA": "13579",
-            "decision": "UNDECIDED",
-            "comments": "Intriguing! Waiting for more information from authors..."
+            "decision": "INCLUDED",
+            "comments": "Author D. Jones confirmed methods used. Good stuff!"
         }, 
         {
             "name": "A. mellifera supertree #2", 
