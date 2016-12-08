@@ -1,0 +1,413 @@
+{
+"contributors": [
+{
+"login": "quattrinia", 
+"name": "quattrinia"
+}, 
+{
+"login": "reimerj", 
+"name": "James Davis Reimer"
+}, 
+{
+"login": "L-Leclere", 
+"name": "L-Leclere"
+}, 
+{
+"login": "snacktavish", 
+"name": "Emily Jane McTavish"
+}, 
+{
+"login": "marymegandaly", 
+"name": "marymegandaly"
+}, 
+{
+"login": "Tesserazoa", 
+"name": "Tesserazoa"
+}, 
+{
+"login": "mndawson", 
+"name": "mndawson"
+}, 
+{
+"login": "mtholder", 
+"name": "Mark T. Holder"
+}, 
+{
+"login": "csmcfadden", 
+"name": "Catherine McFadden"
+}, 
+{
+"login": "juansanc", 
+"name": "juansanc"
+}
+], 
+"creator": {
+"login": "pcart", 
+"name": "pcart"
+}, 
+"decisions": [
+{
+"SHA": "", 
+"comments": "Cnidaria backbone with stauro and cerianthid", 
+"decision": "INCLUDED", 
+"name": "FullMatrix (Felipe Zapata, 2015)", 
+"studyID": "ot_895", 
+"treeID": "tree2"
+}, 
+{
+"SHA": "", 
+"comments": "Cnidaria backbone", 
+"decision": "INCLUDED", 
+"name": "1 (Felipe Zapata, 2015)", 
+"studyID": "ot_895", 
+"treeID": "tree1"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "Better Taxonomy summary (Chang E.S., 2015)", 
+"studyID": "ot_519", 
+"treeID": "tree2"
+}, 
+{
+"SHA": "", 
+"comments": "myxozoa backbone", 
+"decision": "INCLUDED", 
+"name": "Bayesian CAT Model (Chang E.S., 2015)", 
+"studyID": "ot_519", 
+"treeID": "Tr88326"
+}, 
+{
+"SHA": "", 
+"comments": "octocoral backbone", 
+"decision": "INCLUDED", 
+"name": "bestREP3 (Catherine McFadden, 2013)", 
+"studyID": "ot_896", 
+"treeID": "tree1"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "SSU & LSU Combined ML (Bentlage B. , 2010)", 
+"studyID": "pg_1951", 
+"treeID": "tree3975"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "Rod et al hexos (Estefan\u00eda Rodr\u00edguez, 2014)", 
+"studyID": "ot_930", 
+"treeID": "tree3"
+}, 
+{
+"SHA": "", 
+"comments": "Cubozoa backbone", 
+"decision": "INCLUDED", 
+"name": "Cubozoa (tree3974) (Bentlage B. , 2010)", 
+"studyID": "pg_1951", 
+"treeID": "tree3974"
+}, 
+{
+"SHA": "", 
+"comments": "As of this date, it's the best backbone for the Class", 
+"decision": "INCLUDED", 
+"name": "Scyphozoa_Bayha&c2010_18S28S_Tree04 (K. M. Bayha, 2010)", 
+"studyID": "ot_932", 
+"treeID": "tree6"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "Combined_ML_tree (Miranda L.S., 2016)", 
+"studyID": "ot_942", 
+"treeID": "Tr94692"
+}, 
+{
+"SHA": "", 
+"comments": "Trachylina backbone", 
+"decision": "INCLUDED", 
+"name": "Trachylina Combined 2008 (Allen G. Collins, 2008)", 
+"studyID": "ot_929", 
+"treeID": "tree1"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "ML - Hydroidollina (tree6257) (Cartwright, 2008)", 
+"studyID": "pg_1786", 
+"treeID": "tree6257"
+}, 
+{
+"SHA": "", 
+"comments": "This is the best backbone for Zoantharia", 
+"decision": "INCLUDED", 
+"name": "Zoantharia ITS+28S+12S+16S ML (Swain 2016) (Swain T.D., 2016)", 
+"studyID": "ot_924", 
+"treeID": "Tr97534"
+}, 
+{
+"SHA": "", 
+"comments": "Scleractinia molecular supertree (~450 spp.)", 
+"decision": "INCLUDED", 
+"name": "Scleractinia (Huang & Roy 2011) (Huang, 2013)", 
+"studyID": "pg_1761", 
+"treeID": "tree6151"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "Myxosporea (tree5206) (Bartosova P., 2009)", 
+"studyID": "pg_2445", 
+"treeID": "tree5206"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "Herrera_Paragorgiidae (Santiago Herrera, 2016)", 
+"studyID": "ot_938", 
+"treeID": "tree1"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "Leptothecata 16s18s28s ML (Lucas Leclere, 2009)", 
+"studyID": "pg_1785", 
+"treeID": "tree6248"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "Leptothecata ML 16S18S28S_Nrw4 (Maximiliano M. Maronna, 2016)", 
+"studyID": "ot_714", 
+"treeID": "tree2"
+}, 
+{
+"SHA": "", 
+"comments": "naked coral tree", 
+"decision": "INCLUDED", 
+"name": "nt partitioned gene raxml (Mei Fang Lin, 2016)", 
+"studyID": "ot_944", 
+"treeID": "tree1"
+}, 
+{
+"SHA": "", 
+"comments": "siphonophores", 
+"decision": "INCLUDED", 
+"name": "Untitled (tree6534) (Dunn, 2005)", 
+"studyID": "pg_1788", 
+"treeID": "tree6534"
+}, 
+{
+"SHA": "", 
+"comments": "Adds Nanozoanthidae + Abyssoanthidae to Zoantharia.", 
+"decision": "INCLUDED", 
+"name": "16S (Nano + Abyyso) Bayes (Fujii & Reimer 2013) (Takuma Fujii, 2013)", 
+"studyID": "ot_957", 
+"treeID": "tree1"
+}, 
+{
+"SHA": "", 
+"comments": "Epiactis", 
+"decision": "INCLUDED", 
+"name": "tree 1 (Larson P., 2015)", 
+"studyID": "ot_729", 
+"treeID": "Tr90969"
+}, 
+{
+"SHA": "", 
+"comments": "Caribbean gorgonians", 
+"decision": "INCLUDED", 
+"name": "con 50 majrule (Johanna Vel\u00e1squez, 2015)", 
+"studyID": "ot_949", 
+"treeID": "tree1"
+}, 
+{
+"SHA": "", 
+"comments": "Adds Microzoanthdae to Zoantharia.", 
+"decision": "INCLUDED", 
+"name": "Zoantharia (Microzoanthidae) COI ML (Fujii & Reimer 2011) (Fujii T, 2011)", 
+"studyID": "ot_933", 
+"treeID": "tree2"
+}, 
+{
+"SHA": "", 
+"comments": "Octocorallia: Alcyoniidae: Sinularia", 
+"decision": "INCLUDED", 
+"name": "Sinularia (Benayahu Y, 2013)", 
+"studyID": "ot_947", 
+"treeID": "tree1"
+}, 
+{
+"SHA": "", 
+"comments": "all 18s from Hydroidolina added Platacnidae and Protohydra", 
+"decision": "INCLUDED", 
+"name": "tree 1 (SOFIA V. PYATAEVA, 2016)", 
+"studyID": "ot_954", 
+"treeID": "tree1"
+}, 
+{
+"SHA": "", 
+"comments": "Octocorallia,family Alcyoniidae", 
+"decision": "INCLUDED", 
+"name": "Cladiella+Klyxum (Benayahu Y, 2013)", 
+"studyID": "ot_947", 
+"treeID": "tree3"
+}, 
+{
+"SHA": "", 
+"comments": "Best Parazoanthidae tree, includes Bergia, Umimayanthus, and genera described in Sinniger et al. 2013", 
+"decision": "INCLUDED", 
+"name": "Parazoanthidae 18S+28S+ITS+16S+COI ML (Montenegro et al. 2015) (Javier Montenegro, 2015)", 
+"studyID": "ot_981", 
+"treeID": "tree1"
+}, 
+{
+"SHA": "", 
+"comments": "Octocorallia: Alcyoniidae", 
+"decision": "INCLUDED", 
+"name": "Sarcophyton+Lobophytum (Benayahu Y, 2013)", 
+"studyID": "ot_947", 
+"treeID": "tree2"
+}, 
+{
+"SHA": "", 
+"comments": "Distinguishes two of the species within the family", 
+"decision": "INCLUDED", 
+"name": "Drymonematidae_Baya & Dawson (2010) (Bayha K.M., 2010)", 
+"studyID": "pg_1947", 
+"treeID": "tree3965"
+}, 
+{
+"SHA": "", 
+"comments": "Adds Atlantic spp. of clades already in tree, particularly Sphenopidae, Zoanthidae, Parazoanthidae.", 
+"decision": "INCLUDED", 
+"name": "Zoantharia 16S + COI ML tree (Santos 2015) (Maria Eduarda Alves Santos, 2015)", 
+"studyID": "ot_925", 
+"treeID": "tree1"
+}, 
+{
+"SHA": "", 
+"comments": "Octocorallia: Xeniidae", 
+"decision": "INCLUDED", 
+"name": "Xeniidae mt+28S (Michael Janes, 2014)", 
+"studyID": "ot_960", 
+"treeID": "tree1"
+}, 
+{
+"SHA": "", 
+"comments": "Octocorallia: Keratoisidinae", 
+"decision": "INCLUDED", 
+"name": "Keratoisidinae (Luisa F. Due\u00f1as, 2014)", 
+"studyID": "ot_956", 
+"treeID": "tree1"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "Plumularioidea ML 16S (Lucas Lecl\u00e8re, 2007)", 
+"studyID": "ot_900", 
+"treeID": "tree1"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "Quattrini_MolEcol_MutSCOI28S (Andrea M. Quattrini, 2013)", 
+"studyID": "ot_984", 
+"treeID": "tree1"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "18S stampar 2014 (S\u00e9rgio N. Stampar, 2014)", 
+"studyID": "ot_985", 
+"treeID": "tree1"
+}, 
+{
+"SHA": "", 
+"comments": "Octocorallia: Corallidae", 
+"decision": "INCLUDED", 
+"name": "Corallidae (N\u00e9stor E Ardila, 2012)", 
+"studyID": "ot_983", 
+"treeID": "tree1"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "Combined 16S, COI, 18S and 28S Parsimony (Amanda F. Cunha, 2017)", 
+"studyID": "ot_898", 
+"treeID": "tree1"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "bestREP5 (Amanda F. Cunha, 2017)", 
+"studyID": "ot_898", 
+"treeID": "tree3"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "bestREP7 (Amanda F. Cunha, 2017)", 
+"studyID": "ot_898", 
+"treeID": "tree2"
+}, 
+{
+"SHA": "", 
+"comments": "Umimayanthus (Parazoanthidae) in detail.", 
+"decision": "INCLUDED", 
+"name": "Detailed ITS ML (Montenegro et al. 2015MPE) (Javier Montenegro, 2015)", 
+"studyID": "ot_982", 
+"treeID": "tree4"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "Radice_Paramuricea_MutSCOI28S (Veronica Z. Radice, 2016)", 
+"studyID": "ot_989", 
+"treeID": "tree1"
+}, 
+{
+"SHA": "", 
+"comments": "Most complete tree for genus Aurelia.", 
+"decision": "INCLUDED", 
+"name": "Dawson&c2005 Fig1 rDNA ML (M. N Dawson, 2005)", 
+"studyID": "ot_990", 
+"treeID": "tree2"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "Stylasteridae ML 92Taxa-total evidence (Stefania Puce, 2016)", 
+"studyID": "ot_964", 
+"treeID": "tree2"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "Hydra Fig3-COI 16S EF1a 28S Beast (Martin Schwentner, 2015)", 
+"studyID": "ot_965", 
+"treeID": "tree1"
+}
+], 
+"description": "", 
+"name": "Cnidaria", 
+"queries": []
+}
