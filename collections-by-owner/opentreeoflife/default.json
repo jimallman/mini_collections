@@ -1,0 +1,609 @@
+{
+"contributors": [
+{
+"login": "DMaddison", 
+"name": "David Maddison"
+}, 
+{
+"login": "cdspecht", 
+"name": "cdspecht (None)"
+}, 
+{
+"login": "mtholder", 
+"name": "Mark T. Holder"
+}, 
+{
+"login": "plewis", 
+"name": "Paul O. Lewis"
+}, 
+{
+"login": "josephwb", 
+"name": "Joseph W. Brown"
+}
+], 
+"creator": {
+"login": "kcranston", 
+"name": "Karen Cranston"
+}, 
+"decisions": [
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "Fig. 2 ML (Selvatti, 2015)", 
+"studyID": "ot_290", 
+"treeID": "tree1"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "Zingiberales Sass et al PeerJ 2016 (Chodon Sass, 2016)", 
+"studyID": "ot_709", 
+"treeID": "tree1"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "Majority-Rule Consensus of 2000 trees from Trees stored in block \"7Genes MLBoot Trees (PartitionFinder)\" (David Maddison, 2014)", 
+"studyID": "ot_624", 
+"treeID": "tree2"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "tree 3 (Shayla Salzman, 2015)", 
+"studyID": "ot_711", 
+"treeID": "tree1"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "Fig. 2 (Yang X., 2014)", 
+"studyID": "ot_44", 
+"treeID": "Tr64893"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "Tr63070 (Lorch J.M., 2012)", 
+"studyID": "ot_19", 
+"treeID": "Tr63070"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "Fig. 2b (Callejas R., 2008)", 
+"studyID": "pg_108", 
+"treeID": "tree4130"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "Ericales (tree530) (S. A. Smith, 2008)", 
+"studyID": "pg_422", 
+"treeID": "tree530"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "tree1 (Tedford, 2009)", 
+"studyID": "ot_278", 
+"treeID": "tree1"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "tree4 (Yoshiyuki Ishitani, 2011)", 
+"studyID": "ot_97", 
+"treeID": "tree4"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "Tr77496 (K. M. Kozak, 2015)", 
+"studyID": "ot_488", 
+"treeID": "Tr77496"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "tree6388 (Barker F., 2004)", 
+"studyID": "pg_2404", 
+"treeID": "tree6388"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "con 50 majrule++ (Mariangeles Arce H., 2013)", 
+"studyID": "ot_623", 
+"treeID": "tree2"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "Fig. 24 (Marcelo R. Britto, 2003)", 
+"studyID": "ot_597", 
+"treeID": "Tr53543"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "Figs. 36-38 (Armbruster J.W. , 2004)", 
+"studyID": "pg_2071", 
+"treeID": "tree4264"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "Fig. 3 (BEAST) (Cushing, 2015)", 
+"studyID": "ot_509", 
+"treeID": "tree1"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "best (Kaliszewska Z.A., 2015)", 
+"studyID": "ot_530", 
+"treeID": "Tr81397"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "Fig. \uf732. Mid-point rooted maximum likelihood phylogeny (ITS, nLSU, nSSU, rpb2) of the Tricholomataceae s.str. Bootstrap values \u2265 70 and Bayesian posterior probabilities \u2265 0.95 are shown at branches. Types of generic names are indicated in bold. Taxa labels follow updated nomenclature presented in the Taxonomy section. (Sanchez-garcia M., 2014)", 
+"studyID": "ot_331", 
+"treeID": "Tr77751"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "FIG. 1. Phylogram based on ML analyses of ITS1-5.8S-ITS2 rDNA sequences, showing where fungal associates of pine bark beetles in Spain from the study of Romo\u00b4n et al. (2007) groups within the Ophiostomatales. (P. Romon, 2014)", 
+"studyID": "ot_340", 
+"treeID": "Tr52077"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "Figure 1 (no edge lengths) (O'Leary, 2013)", 
+"studyID": "pg_2647", 
+"treeID": "tree6169"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "Fig. 1 Maximum likelihood (ML) tree obtained from the combined LSU and ITS sequences of 61 representative taxa of Microascaceae and Graphiaceae. (Sandoval-denis M.P., 2016)", 
+"studyID": "ot_453", 
+"treeID": "Tr87992"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "Fig 5 strict consensus (Sidlauskas B.L. , 2008)", 
+"studyID": "pg_1879", 
+"treeID": "tree3796"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "Bayesian consensus (Ohlson, 2013)", 
+"studyID": "pg_2796", 
+"treeID": "tree6491"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "tree6130 (Sandra C. Craveiro, 2011)", 
+"studyID": "pg_2618", 
+"treeID": "tree6130"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "tree3743 (Mann, 2006)", 
+"studyID": "pg_1854", 
+"treeID": "tree3743"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "Tr63300 (J. L. Alves, 2013)", 
+"studyID": "ot_389", 
+"treeID": "Tr63300"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "tree1 (K.Y. Ma, 2009)", 
+"studyID": "ot_115", 
+"treeID": "tree1"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "tree1585 (Porter T.M., 2011)", 
+"studyID": "pg_827", 
+"treeID": "tree1585"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "Tr3688 (Cooke D., 2000)", 
+"studyID": "ot_26", 
+"treeID": "Tr3688"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "tree6744 (P\u00e9rez-Losada M, 2012)", 
+"studyID": "pg_2916", 
+"treeID": "tree6744"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "Tr53059 (T. Shirouzu, 2013)", 
+"studyID": "ot_317", 
+"treeID": "Tr53059"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "Tr80994 (M. J. Trappe, 2015)", 
+"studyID": "ot_458", 
+"treeID": "Tr80994"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "tree6760 (Thiago da Silva Paiva, 2014)", 
+"studyID": "pg_2927", 
+"treeID": "tree6760"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "Tr74361 (M. Gelardi, 2014)", 
+"studyID": "ot_443", 
+"treeID": "Tr74361"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "tree505 (Schroers, 2005)", 
+"studyID": "pg_404", 
+"treeID": "tree505"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "tree2 (dos Reis, 2015)", 
+"studyID": "ot_508", 
+"treeID": "tree2"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "tree6545 (Lartillot, 2012)", 
+"studyID": "pg_2812", 
+"treeID": "tree6545"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "tree1 (Qi Kou, 2013)", 
+"studyID": "ot_131", 
+"treeID": "tree1"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "tree4 (K.M. Hultgren, 2008)", 
+"studyID": "ot_657", 
+"treeID": "tree4"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "tree1 (Sun, 2016)", 
+"studyID": "ot_535", 
+"treeID": "tree1"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "tree1 (Ksepka, 2015)", 
+"studyID": "ot_534", 
+"treeID": "tree1"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "Tr85942 (Frederik Leliaert, 2015)", 
+"studyID": "ot_546", 
+"treeID": "Tr85942"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "tree1 (Gao, 2014)", 
+"studyID": "ot_105", 
+"treeID": "tree1"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "tree1 (Ka Yan Ma, 2011)", 
+"studyID": "ot_114", 
+"treeID": "tree1"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "tree1 (Qi Kou, 2013)", 
+"studyID": "ot_132", 
+"treeID": "tree1"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "tree4 (Dietrich, 1994)", 
+"studyID": "ot_218", 
+"treeID": "tree4"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "Tr72273 (Thongklang N., 2014)", 
+"studyID": "ot_221", 
+"treeID": "Tr72273"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "Tr3687 (Cooke D., 2000)", 
+"studyID": "ot_26", 
+"treeID": "Tr3687"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "tree1 (Dos Remedios, 2015)", 
+"studyID": "ot_289", 
+"treeID": "tree1"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "tree1 (Oatley, 2015)", 
+"studyID": "ot_305", 
+"treeID": "tree1"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "Tr70597 (A. da Marcela Vasco-Palacios, 2014)", 
+"studyID": "ot_435", 
+"treeID": "Tr70597"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "Tr75519 (P. Sandoval-Leiva, 2014)", 
+"studyID": "ot_445", 
+"treeID": "Tr75519"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "tree3798 (Sidlauskas B.L. , 2008)", 
+"studyID": "pg_1879", 
+"treeID": "tree3798"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "Tr75532 (H. Urbina, 2012)", 
+"studyID": "ot_447", 
+"treeID": "Tr75532"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "Tr92138 (Hisayoshi Nozaki, 2015)", 
+"studyID": "ot_555", 
+"treeID": "Tr92138"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "Tr70451 (Ryo Matsuzaki, 2014)", 
+"studyID": "ot_559", 
+"treeID": "Tr70451"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "tree2 (Gibb, 2015)", 
+"studyID": "ot_647", 
+"treeID": "tree2"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "tree856 (Thomas B. Patterson, 2002)", 
+"studyID": "pg_580", 
+"treeID": "tree856"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "tree2455 (Delsuc, 2008)", 
+"studyID": "pg_1217", 
+"treeID": "tree2455"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "tree3298 (Endo M., 2008)", 
+"studyID": "pg_1632", 
+"treeID": "tree3298"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "tree6271 (Floudas, 6089)", 
+"studyID": "pg_2701", 
+"treeID": "tree6271"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "tree6432 (Wyth L. Marshall, 2008)", 
+"studyID": "pg_2775", 
+"treeID": "tree6432"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "tree6705 (Shuhei Ota, 2012)", 
+"studyID": "pg_2793", 
+"treeID": "tree6705"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "tree6550 (Rota-Stabelli, 2011)", 
+"studyID": "pg_2813", 
+"treeID": "tree6550"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "tree6667 (Tietze, 2013)", 
+"studyID": "pg_2874", 
+"treeID": "tree6667"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "tree6698 (Bonnie R. Lei, 2014)", 
+"studyID": "pg_2889", 
+"treeID": "tree6698"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "tree6701 (Rice, 2005)", 
+"studyID": "pg_2890", 
+"treeID": "tree6701"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "tree6551 (Rota-Stabelli, 2013)", 
+"studyID": "pg_2814", 
+"treeID": "tree6551"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "Bayesian 18S Chlorophyceae (S. Watanabe, 2016)", 
+"studyID": "ot_752", 
+"treeID": "tree1"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "Figure 1 (Martin Malmstr\u00f8m, [no year])", 
+"studyID": "ot_771", 
+"treeID": "tree1"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "ML majority-rule consensus (Betancur-R., 2013)", 
+"studyID": "pg_2651", 
+"treeID": "tree6177"
+}, 
+{
+"SHA": "", 
+"comments": "", 
+"decision": "INCLUDED", 
+"name": "tree1 (Thornhill, 2015)", 
+"studyID": "ot_306", 
+"treeID": "tree1"
+}
+], 
+"description": "Trees for synthesis, but ranked lower than other synthesis collections", 
+"name": "Inputs to synthesis (default)", 
+"queries": []
+}
